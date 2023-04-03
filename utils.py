@@ -30,6 +30,7 @@ model_mapping = {
     "deberta-mnli": "microsoft/deberta-xxlarge-v2-mnli",
     "deberta": "microsoft/deberta-xxlarge-v2",
     "roberta-mnli": "roberta-large-mnli",
+    "unifiedqa-small": "allenai/unifiedqa-t5-small",
 }
 
 
